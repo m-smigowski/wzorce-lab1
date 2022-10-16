@@ -1,4 +1,6 @@
 package pl.edu.wszib.lab1.builder;
 
-public class Gender {
+public enum Gender {
+    MALE,
+    FEMALE,
 }
